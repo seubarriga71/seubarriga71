@@ -10,9 +10,10 @@
         "farmampla": true,
         "dcastro": true,
         "jc": true,
-        "todos" : false
+        "todos" : true
         
     },
     "mensagem": "teste",
-    "mensagem_alternativa": "teste"
+    "mensagem_alternativa": "teste",
+    "teste": false
 }
