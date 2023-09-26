@@ -1,0 +1,18 @@
+{
+    "client": "Gold Image",
+    "pagamentos": {
+        "folhadaregiao": false,
+        "goodimage": true,
+        "virtualnetelecom": true,
+        "vidracariagoncalvesma": true,
+        "construtoracarvalhob": true,
+        "executiva": true,
+        "farmampla": true,
+        "dcastro": true,
+        "jc": true,
+        "todos" : false
+        
+    },
+    "mensagem": "teste",
+    "mensagem_alternativa": "teste"
+}
