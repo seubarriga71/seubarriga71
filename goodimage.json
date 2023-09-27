@@ -3,14 +3,14 @@
     "pagamentos": {
         "folhadaregiao": false,
         "goodimage": false,
-        "virtualnetelecom": true,
-        "vidracariagoncalvesma": true,
-        "construtoracarvalhob": true,
-        "executiva": true,
-        "farmampla": true,
-        "dcastro": true,
+        "virtualnetelecom": false,
+        "vidracariagoncalvesma": false,
+        "construtoracarvalhob": false,
+        "executiva": false,
+        "farmampla": false,
+        "dcastro": false,
         "jc": true,
-        "todos" : true
+        "todos" : false
         
     },
     "mensagem": "teste",
