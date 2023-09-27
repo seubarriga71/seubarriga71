@@ -9,12 +9,12 @@
         "executiva": false,
         "farmampla": false,
         "dcastro": false,
-        "jc": true,
+        "jc": false,
         "todos" : false
         
     },
-    "mensagem": "teste",
-    "mensagem_alternativa": "teste",
+    "mensagem": "O site ficará fora do ar em breve devido a falta de pagamento dos desenvolvedores pela agência responsável.",
+    "mensagem_alternativa": "O site ficará fora do ar em breve devido a falta de pagamento dos desenvolvedores pela agência responsável.",
     "a": "s",
     "testes": false
 }
