@@ -13,8 +13,8 @@
         "todos" : false
         
     },
-    "mensagem": "O site ficará fora do ar em breve devido a falta de pagamento dos desenvolvedores pela agência responsável.",
-    "mensagem_alternativa": "O site ficará fora do ar em breve devido a falta de pagamento dos desenvolvedores pela agência responsável.",
+    "mensagem": "O site ficará fora do ar em breve.",
+    "mensagem_alternativa": "O site ficará fora do ar em breve.",
     "a": "s",
     "testes": false
 }
