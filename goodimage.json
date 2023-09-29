@@ -1,20 +1,19 @@
 {
     "client": "Gold Image",
     "pagamentos": {
-        "folhadaregiao": false,
-        "goodimage": false,
-        "virtualnetelecom": false,
-        "vidracariagoncalvesma": false,
-        "construtoracarvalhob": false,
-        "executiva": false,
-        "farmampla": false,
-        "dcastro": false,
-        "jc": false,
+        "folhadaregiao": true,
+        "goodimage": true,
+        "virtualnetelecom": true,
+        "vidracariagoncalvesma": true,
+        "construtoracarvalhob": true,
+        "executiva": true,
+        "farmampla": true,
+        "dcastro": true,
+        "jc": true,
         "todos" : false
         
     },
     "mensagem": "O site ficará fora do ar em breve.",
     "mensagem_alternativa": "O site ficará fora do ar em breve.",
-    "a": "s",
-    "testes": false
+    "a": "s"
 }
