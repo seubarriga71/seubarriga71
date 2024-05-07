@@ -1,11 +1,6 @@
 {
     "client": "Gold Image",
     "pagamentos": {
-        "virtualnetelecom": true,
-        "vidracariagoncalvesma": false,
-        "farmampla": false,
-        "dcastro": false,
-        "jc": false,
         "todos" : false
         
     },
